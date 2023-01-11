@@ -1,57 +1,10 @@
-Creamy Bean Soup with Sausage
-This hearty bean soup with sausage skips the cream and is thickened with flour and milk instead.
-Servings 6
-Calories 417kcal
-Ingredients
-
-1 tablespoon canola or vegetable oil
-
-2 pounds kielbasa sausage , cut into 1-inch slices
-
-1 cup chopped onion
-
-1 cup chopped green bell pepper
-
-1 cup chopped carrot
-
-2 cloves garlic , pressed or minced
-
-½ teaspoon kosher salt
-
-½ teaspoon freshly ground black pepper
-
-¼ cup all-purpose flour
-
-4 cups milk
-
-6 tablespoons Worcestershire sauce
-
-½ teaspoon ground sage
-
-1 15-ounce can Great Northern white beans , or cannellini beans, rinsed and drained
-
-1 15-ounce can dark kidney beans , rinsed and drained
-
-chopped parsley 
-
-
-
-Instructions
-
-In a large dutch oven or stock pot, heat the oil over medium high heat. 
-
-Add the sausage and cook for 5 minutes, stirring occasionally, until browned. 
-
-Add the onion, green bell pepper, carrot, and garlic. 
-
-Season with the kosher salt and pepper, and cook, stirring occasionally, 
-until the onion and pepper softens, about 5 minutes.
-
-Sprinkle the flour over the sausage and veggie mixture and stir to coat, 
-stirring and cooking for 1-2 minutes or until it loses its raw floury taste and begins to smell toasty. 
-
-Slowly add the milk and stir until smooth. Cook until the the mixture begins to thicken and bubble, 
-stirring often, then add Worcestershire sauce, sage and beans. Reduce the heat to medium-low and continue to cook 
-for 15-20 minutes or until the flavors come together, stirring occasionally. Add more salt and pepper to taste. 
-
-Serve hot with a few sprinkles of fresh parsley and french bread for dipping or crackers on the side. 
+<h2 class="wprm-recipe-name wprm-block-text-bold">Creamy Bean Soup with Sausage</h2>
+<div class="wprm-spacer" style="height: 5px"></div>
+<div class="wprm-recipe-summary wprm-block-text-normal"><span style="display: block;">This hearty bean soup with sausage skips the cream and is thickened with flour and milk instead. </span></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-spacer"></div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-servings-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-servings-label">Servings </span><a href="#" class="wprm-recipe-servings-link" aria-label="Adjust recipe servings" aria-expanded="false"><span class="wprm-recipe-servings wprm-recipe-details wprm-recipe-servings-47734 wprm-recipe-servings-adjustable-tooltip wprm-block-text-normal" data-initial-servings="" data-recipe="47734" aria-label="Adjust recipe servings" data-servings="6" data-original-servings="6">6</span></a></div>
+<div class="wprm-recipe-block-container wprm-recipe-block-container-columns wprm-block-text-normal wprm-recipe-nutrition-container wprm-recipe-calories-container" style=""><span class="wprm-recipe-details-label wprm-block-text-bold wprm-recipe-nutrition-label wprm-recipe-calories-label">Calories </span><span class="wprm-recipe-nutrition-with-unit"><span class="wprm-recipe-details wprm-recipe-nutrition wprm-recipe-calories wprm-block-text-normal">417</span><span class="wprm-recipe-details-unit wprm-recipe-nutrition-unit wprm-recipe-calories-unit wprm-block-text-normal">kcal</span></span></div>
+<div class="wprm-recipe-ingredients-container wprm-recipe-ingredients-no-images wprm-recipe-47734-ingredients-container wprm-block-text-normal wprm-ingredient-style-regular wprm-recipe-images-before" data-recipe="47734" data-servings="6"><h3 class="wprm-recipe-header wprm-recipe-ingredients-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Ingredients</h3><div class="wprm-recipe-ingredient-group"><ul class="wprm-recipe-ingredients"><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1 </span> <span class="wprm-recipe-ingredient-unit">tablespoon</span> <span class="wprm-recipe-ingredient-name">canola or vegetable oil</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">pounds</span> <span class="wprm-recipe-ingredient-name">kielbasa sausage</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">, cut into 1-inch slices </span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">cup</span> <span class="wprm-recipe-ingredient-name">chopped onion</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">cup</span> <span class="wprm-recipe-ingredient-name">chopped green bell pepper</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">cup</span> <span class="wprm-recipe-ingredient-name">chopped carrot</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">2</span> <span class="wprm-recipe-ingredient-unit">cloves</span> <span class="wprm-recipe-ingredient-name">garlic</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">, pressed or minced</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">½</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">kosher salt </span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">½ </span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">freshly ground black pepper</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">¼</span> <span class="wprm-recipe-ingredient-unit">cup</span> <span class="wprm-recipe-ingredient-name">all-purpose flour</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">4</span> <span class="wprm-recipe-ingredient-unit">cups</span> <span class="wprm-recipe-ingredient-name">milk</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">6</span> <span class="wprm-recipe-ingredient-unit">tablespoons </span> <span class="wprm-recipe-ingredient-name">Worcestershire sauce</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">½</span> <span class="wprm-recipe-ingredient-unit">teaspoon</span> <span class="wprm-recipe-ingredient-name">ground sage</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">15-ounce can</span> <span class="wprm-recipe-ingredient-name">Great Northern white beans</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">, or cannellini beans, rinsed and drained</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-amount">1</span> <span class="wprm-recipe-ingredient-unit">15-ounce can</span> <span class="wprm-recipe-ingredient-name">dark kidney beans</span> <span class="wprm-recipe-ingredient-notes wprm-recipe-ingredient-notes-faded">, rinsed and drained</span></li><li class="wprm-recipe-ingredient" style="list-style-type: disc;"><span class="wprm-recipe-ingredient-name">chopped parsley </span></li></ul></div></div>
+<div class="wprm-recipe-instructions-container wprm-recipe-47734-instructions-container wprm-block-text-normal" data-recipe="47734"><h3 class="wprm-recipe-header wprm-recipe-instructions-header wprm-block-text-bold wprm-align-left wprm-header-decoration-none" style="">Instructions</h3><div class="wprm-recipe-instruction-group"><ul class="wprm-recipe-instructions"><li id="wprm-recipe-47734-step-0-0" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px" ;=""><span style="display: block;">In a large dutch oven or stock pot, heat the oil over medium high heat. Add the sausage and cook for 5 minutes, stirring occasionally, until browned. Add the onion, green bell pepper, carrot, and garlic. Season with the kosher salt and pepper, and cook, stirring occasionally, until the onion and pepper softens, about 5 minutes.</span></div></li><li id="wprm-recipe-47734-step-0-1" class="wprm-recipe-instruction" style="list-style-type: decimal;"><div class="wprm-recipe-instruction-text" style="margin-bottom: 5px" ;=""><span style="display: block;">Sprinkle the flour over the sausage and veggie mixture and stir to coat, stirring and cooking for 1-2 minutes or until it loses its raw floury taste and begins to smell toasty. Slowly add the milk and stir until smooth. Cook until the the mixture begins to thicken and bubble, stirring often, then add Worcestershire sauce, sage and beans. Reduce the heat to medium-low and continue to cook for 15-20 minutes or until the flavors come together, stirring occasionally. Add more salt and pepper to taste. Serve hot with a few sprinkles of fresh parsley and french bread for dipping or crackers on the side. </span>
