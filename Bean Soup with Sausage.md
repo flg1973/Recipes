@@ -4,21 +4,21 @@ Servings 6
 Calories 417kcal
 Ingredients
 
-    1 tablespoon canola or vegetable oil
-    2 pounds kielbasa sausage , cut into 1-inch slices
-    1 cup chopped onion
-    1 cup chopped green bell pepper
-    1 cup chopped carrot
-    2 cloves garlic , pressed or minced
-    ½ teaspoon kosher salt
-    ½ teaspoon freshly ground black pepper
-    ¼ cup all-purpose flour
-    4 cups milk
-    6 tablespoons Worcestershire sauce
-    ½ teaspoon ground sage
-    1 15-ounce can Great Northern white beans , or cannellini beans, rinsed and drained
-    1 15-ounce can dark kidney beans , rinsed and drained
-    chopped parsley 
+1 tablespoon canola or vegetable oil
+2 pounds kielbasa sausage , cut into 1-inch slices
+1 cup chopped onion
+1 cup chopped green bell pepper
+1 cup chopped carrot
+2 cloves garlic , pressed or minced
+½ teaspoon kosher salt
+½ teaspoon freshly ground black pepper
+¼ cup all-purpose flour
+4 cups milk
+6 tablespoons Worcestershire sauce
+½ teaspoon ground sage
+1 15-ounce can Great Northern white beans , or cannellini beans, rinsed and drained
+1 15-ounce can dark kidney beans , rinsed and drained
+chopped parsley 
 
 Instructions
 
