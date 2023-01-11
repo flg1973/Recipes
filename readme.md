@@ -1,27 +1,8 @@
-<h2 class="subheader" data-editable="text" data-uri="cms.cnn.com/_components/subheader/instances/cl0jpgivb003j3e6rcfr8wm16@published" data-component-name="subheader" id="beer-braised-pork-tacos">
-    Beer-Braised Pork Tacos
-</h2>
-
-<div data-uri="cms.cnn.com/_components/image/instances/cl0jpvg1q00453e6rtzmy29wf@published" class="image image--eq-extra-small image--eq-small image--show-credits" data-image-variation="image" data-name="underscored slow cooker Beer Braised Pork Tacos (1)" data-component-name="image" data-observe-resizes="" data-breakpoints="{&quot;image--eq-extra-small&quot;: 115, &quot;image--eq-small&quot;: 300, &quot;image--show-credits&quot;: 596}" data-original-ratio="0.5625" data-original-height="1080" data-original-width="1920" data-url="https://media.cnn.com/api/v1/images/stellar/prod/200707145432-underscored-slow-cooker-beer-braised-pork-tacos-1.jpg?q=w_1920,h_1080,x_0,y_0,c_fill" data-editable="settings">
-      
-    <div class="image__container " data-image-variation="image" data-breakpoints="{&quot;image--eq-extra-small&quot;: 115, &quot;image--eq-small&quot;: 300, &quot;image--show-credits&quot;: 596}">
-       <picture class="image__picture"><source height="720" width="1280" media="(min-width: 1280px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/200707145432-underscored-slow-cooker-beer-braised-pork-tacos-1.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/h_720,w_1280"><source height="540" width="960" media="(min-width: 960px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/200707145432-underscored-slow-cooker-beer-braised-pork-tacos-1.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/h_540,w_960"><source height="270" width="480" media="(-webkit-min-device-pixel-ratio: 2)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/200707145432-underscored-slow-cooker-beer-braised-pork-tacos-1.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/h_270,w_480"><img src="https://media.cnn.com/api/v1/images/stellar/prod/200707145432-underscored-slow-cooker-beer-braised-pork-tacos-1.jpg?q=x_0,y_0,h_1080,w_1919,c_fill/h_270,w_480" alt="Beer-Braised Pork Tacos" class="image__dam-img" onload="this.classList.remove('image__dam-img--loading')" loading="lazy" width="1920" height="1080"></picture>
-       
-    </div>
-    
-      <div class="image__metadata">
-        <div itemprop="caption" class="image__caption attribution">
-  
   <span data-editable="caption" class="inline-placeholder">Beer-Braised Pork Tacos</span>
-  
-</div>
-        <figcaption class="image__credit">andrew thomas lee photography</figcaption>
-      </div>
-    
-</div>
+ 
 
   <p class="paragraph inline-placeholder" data-uri="cms.cnn.com/_components/paragraph/instances/cl0jpv90a003u3e6r15ir5xm7@published" data-editable="text" data-component-name="paragraph">
-      Slow-braised pork makes for a tender, flavorful filling for at-home&nbsp;<a href="https://www.cnn.com/2020/06/17/cnn-underscored/how-to-make-tacos-at-home">taco night</a>. Acheson calls this recipe both easy and redeeming: ìYou can garnish up the tacos further as you wish, maybe with avocado, lime, cotija cheese and some charred scallions,î he says. A wide mixture of toppings make a big piece of meat like this serve tacos for days ó or use it for delicious pulled pork sandwiches to mix things up. Definitely garnish the tacos with Achesonís Tomatillo Salsa Verde, the recipe that follows.
+      Slow-braised pork makes for a tender, flavorful filling for at-home&nbsp;<a href="https://www.cnn.com/2020/06/17/cnn-underscored/how-to-make-tacos-at-home">taco night</a>. Acheson calls this recipe both easy and redeeming: ‚ÄúYou can garnish up the tacos further as you wish, maybe with avocado, lime, cotija cheese and some charred scallions,‚Äù he says. A wide mixture of toppings make a big piece of meat like this serve tacos for days ‚Äî or use it for delicious pulled pork sandwiches to mix things up. Definitely garnish the tacos with Acheson‚Äôs Tomatillo Salsa Verde, the recipe that follows.
   </p>
 
   <p class="paragraph inline-placeholder" data-uri="cms.cnn.com/_components/paragraph/instances/cl0jpvopl004h3e6rem17n4sq@published" data-editable="text" data-component-name="paragraph">
